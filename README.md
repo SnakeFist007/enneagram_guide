@@ -1,6 +1,7 @@
 # The Enneagram of Personality - A "simple" Guide!
 
 Resources for my Ennegram guide over at http://enneagram.snakefist.de/
+Planned finishing date: 27.03.2023!
 
 Colors used:
 - Green       #2fafa1
